@@ -67,5 +67,6 @@ This diagram details the classes involved, including the attributes, methods, an
 <img width="541" alt="Снимок экрана 2024-12-16 в 20 20 47" src="https://github.com/user-attachments/assets/7044dc7e-f5b1-4a8f-9a2b-c49746fc0b17" />
 
 
-## Weekly Meeting Documentation: https://docs.google.com/document/d/1w29TS5eKYRD4EzwvTzZhzEQ8x14EPmfA2qtczjtMWQM/edit?usp=sharing
+## Weekly Meeting Documentation:
+https://docs.google.com/document/d/1w29TS5eKYRD4EzwvTzZhzEQ8x14EPmfA2qtczjtMWQM/edit?usp=sharing
 
